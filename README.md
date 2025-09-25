@@ -2,8 +2,8 @@
 
 ## Demos
 
-<img height="600" alt="image-2_nd-robot" src="https://github.com/user-attachments/assets/b708cdbe-721c-4886-b7f4-9bfd07937729" />
-<img height="600" alt="Untitled 2776543" src="https://github.com/user-attachments/assets/c12f674a-8f56-45e3-850b-414f6956414e" />
+<img height="460" alt="image-2_nd-robot" src="https://github.com/user-attachments/assets/b708cdbe-721c-4886-b7f4-9bfd07937729" />
+<img height="460" alt="Untitled 2776543" src="https://github.com/user-attachments/assets/c12f674a-8f56-45e3-850b-414f6956414e" />
 
 
 ## How it's made
